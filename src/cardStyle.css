@@ -53,8 +53,10 @@ body {
 
 .carta-miolo {
   position: absolute;
-  top: 5px;
-  width: 280px;
+  top: 10px;
+  width: 290px;
+  height: 10px;
+  left: 5px;
 }
 
 /*--------- Miolo 1 -----------*/
