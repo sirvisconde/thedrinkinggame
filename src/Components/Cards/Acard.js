@@ -4,8 +4,7 @@ import { Card, Typography, CardContent,  } from '@material-ui/core';
 
 export default class Acard extends Component{
     render(){
-        return(
-            
+        return(            
                 <div className="carta">
                     <div className="naip-area naip-top">
                         <span className="naip-number">A</span>

@@ -45,7 +45,7 @@ export default class Home extends Component{
 
     trocaCarta (){
         
-        this.setState({card: Math.floor(Math.random() * 13) + 1})        
+        this.setState({card: Math.floor(Math.random() * 13) + 1})
         
     };
 
